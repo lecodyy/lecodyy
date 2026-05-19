@@ -1,24 +1,22 @@
-## **cody here.**
+**cody here.**
 
-cs student @CSUF '28  
-building for the sake of building  
+cs student @ CSUF '28  
+building for the sake of building
 
+---
 
-### stack.
-
+**stack**  
 `Python` `JavaScript` `C++` `HTML/CSS` `Flask` `SQLAlchemy` `SQLite`
 
-## contact me
+---
 
-- Email: codyle567@gmail.com
+**find me**  
+codyle567@gmail.com
 
-## ⚡ fun facts
+---
 
-- competitive pianist
-- own a bird and 2 cats
-- milk tea fanatic
-
-
-
-
-
+**fun facts**  
+🎹 competitive pianist  
+🐦 one bird, two cats  
+🧋 milk tea fanatic  
+⚡ m1 m1 m1 bushogoma (aba fans know)
