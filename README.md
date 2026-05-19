@@ -1,22 +1,21 @@
-**cody here.**
-
+# cody here! 👋
 cs student @ CSUF '28  
-building for the sake of building
+building for the sake of building  
+anime fan :D
 
 ---
 
-**stack**  
+## stack
 `Python` `JavaScript` `C++` `HTML/CSS` `Flask` `SQLAlchemy` `SQLite`
 
 ---
 
-**find me**  
+## find me
 codyle567@gmail.com
 
 ---
 
-**fun facts**  
-🎹 competitive pianist  
-🐦 one bird, two cats  
-🧋 milk tea fanatic  
-⚡ m1 m1 m1 bushogoma (aba fans know)
+## fun facts
+- competitive pianist
+- terrorized by one bird and two cats
+- milk tea fanatic
