@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 💫 About Me:
+milk tea hack<br><br>cs student @CSUF<br>building for the sake of building<br><br>fun facts:<br>competitive pianist<br>own a bird and 2 cats<br>m1 m1 m1 bushogoma<br>
+
