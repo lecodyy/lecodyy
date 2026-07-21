@@ -1,6 +1,6 @@
 # cody here! 👋
 
-building for the sake of building  
+milk tea fanatic. oh yea i code sometimes too
 
 
 ## stack
@@ -10,4 +10,5 @@ building for the sake of building
 ## fun facts
 - competitive pianist
 - terrorized by one bird and two cats
-- milk tea fanatic
+- i love my nikon d3500
+
