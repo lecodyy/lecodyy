@@ -1,4 +1,4 @@
-# cody here! 👋
+# cody here! 😎
 
 milk tea fanatic. oh yea i code sometimes too
 
