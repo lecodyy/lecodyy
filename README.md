@@ -10,5 +10,5 @@ milk tea fanatic. oh yea i code sometimes too
 ## fun facts
 - competitive pianist
 - terrorized by one bird and two cats
-- i love my nikon d3500
+- ok at photography
 
